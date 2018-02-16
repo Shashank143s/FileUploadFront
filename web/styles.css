@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Material+Icons);
+
+
+* {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+
+html,body{
+  height: 100%;
+  min-height: 100%;
+}
+
+app-file-upload{
+  width:450px;
+  display:block;
+  margin:auto;
+}
